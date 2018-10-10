@@ -1,6 +1,5 @@
 var radius= 10;
-var maxAge= 85;
-var amountPerDay=5;
-var remaining= (maxAge-age )* 365 * amountPerDay;
+var circumference= 2 * 3.14 * radius;
 
-console.log('You will need ', remaining, 'until age of' ,maxAge);
+
+console.log('circumference of circle is ', circumference);
